@@ -1,0 +1,19 @@
+El problema es el siguiente: 
+
+La empresa de seguros Tk-U necesita un sistema para poder automzatizar la creación de contizaciones ee seguros, para lo cual tiene diferentes reglas a contemplar:  
+1. El asegurado tiene que ser mayor de edad. 
+El asegurado parte de una base y se van agregando costos adicionales dependiente de los sigueinte factores: 
+1.Factores
+2.Cantidad de hijos. 
+3.Esta casado/a
+4.Edad del esposo/a
+
+Reglas de los recargos: 
+1.18 a 24, 10% de recargo al precio base. 
+2.25 a 49, 20% de recargo al precio base. 
+3.50 años o más, 30% derecargo al precio base.
+20% por hijo. 
+Aplican para el asegurado y el conyuge. 
+
+
+
